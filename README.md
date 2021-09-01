@@ -3,10 +3,10 @@ this code can use to randomly generate roles for playing mafia / god father / wo
 
 Developed by Abbas Mohmadi in 10/17/2020
 
-.role
+.role     randomly give roles to people in voice channel
 
-.m
+.m    mute all members
 
-.um
+.um   unmute all members
 
-.move <the new voice channel>
+.move <the new voice channel>   move all members to the new voice channel
